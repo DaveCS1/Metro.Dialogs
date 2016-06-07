@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Metro.Dialogs</id>
-    <version>0.0.0.1</version>
+    <version>0.0.0.2</version>
     <authors>ErwinCat</authors>
     <owners>Jared Dobson</owners>
     <licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
@@ -16,7 +16,7 @@
     <dependencies>
       <dependency id="Caliburn.Micro" version="3.0.1" />
       <dependency id="Caliburn.Micro.Core" version="3.0.1" />
-      <dependency id="MahhApps.Metro" version="1.2.4.0" />
+      <dependency id="MahApps.Metro" version="1.2.4.0" />
     </dependencies>
   </metadata>
   <files>
