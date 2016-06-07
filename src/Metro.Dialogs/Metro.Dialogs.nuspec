@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Metro.Dialogs</id>
+    <version>0.0.0.1</version>
+    <authors>ErwinCat</authors>
+    <owners>Jared Dobson</owners>
+    <licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>https://github.com/Dealermade/Metro.Dialogs</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>User Control Library for Metro Styled Dialogs.</description>
+    <summary>Based on MahApps.Metro and Calibrun.Micro.  Adds About box, message, open/save, select folder, select items and splash screen dialogs.</summary>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright (c) 2016</copyright>
+    <tags>dialogs mahapps metro</tags>
+    <dependencies>
+      <dependency id="Caliburn.Micro" version="3.0.1" />
+      <dependency id="Caliburn.Micro.Core" version="3.0.1" />
+      <dependency id="MahhApps.Metro" version="1.2.4.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\..\README.md" target="lib" />
+    <file src="bin\Release\Metro.Dialogs.dll" target="lib\net45" />
+  </files>
+</package>
